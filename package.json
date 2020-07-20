@@ -1,0 +1,19 @@
+{
+  "name": "@jvdx/prettier-config-jvdx",
+  "version": "0.0.0",
+  "description": "jvdx's prettier configuration",
+  "author": "Joel Voss <mail@joelvoss.com>",
+  "license": "MIT",
+  "main": "index.json",
+  "files": [
+    "index.json"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "prettier",
+    "prettierconfig",
+    "jvdx"
+  ]
+}
