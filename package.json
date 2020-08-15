@@ -1,6 +1,6 @@
 {
   "name": "@jvdx/prettier-config-jvdx",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "jvdx's prettier configuration",
   "author": "Joel Voss <mail@joelvoss.com>",
   "license": "MIT",
