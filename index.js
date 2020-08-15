@@ -8,4 +8,13 @@ module.exports = {
 	bracketSpacing: true,
 	jsxBracketSameLine: false,
 	arrowParens: 'avoid',
+	overrides: [
+		{
+			files: 'package.json',
+			options: {
+				useTabs: false,
+				parser: 'JSON-stringify',
+			},
+		},
+	],
 };
