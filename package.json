@@ -4,6 +4,14 @@
   "description": "jvdx's prettier configuration",
   "author": "Joel Voss <mail@joelvoss.com>",
   "license": "MIT",
+  "homepage": "https://github.com/joelvoss/prettier-config-jvdx",
+  "bugs": {
+    "url": "https://github.com/joelvoss/prettier-config-jvdx/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joelvoss/prettier-config-jvdx.git"
+  },
   "main": "index.js",
   "files": [
     "index.js"
