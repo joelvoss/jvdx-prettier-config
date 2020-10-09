@@ -1,16 +1,16 @@
 {
-  "name": "@jvdx/prettier",
+  "name": "@jvdx/prettier-config",
   "version": "0.3.2",
   "description": "jvdx's prettier configuration",
   "author": "Joel Voss <mail@joelvoss.com>",
   "license": "MIT",
-  "homepage": "https://github.com/joelvoss/jvdx-prettier",
+  "homepage": "https://github.com/joelvoss/jvdx-prettier-config",
   "bugs": {
-    "url": "https://github.com/joelvoss/jvdx-prettier/issues"
+    "url": "https://github.com/joelvoss/jvdx-prettier-config/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joelvoss/jvdx-prettier.git"
+    "url": "git+https://github.com/joelvoss/jvdx-prettier-config.git"
   },
   "main": "index.js",
   "files": [
