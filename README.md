@@ -1,4 +1,4 @@
-# @jvdx/prettier-config-jvdx
+# @jvdx/prettier
 
 jvdx's prettier configuration.
 
@@ -8,16 +8,16 @@ jvdx's prettier configuration.
 
 ```bash
 # Using npm
-$ npm i -D @jvdx/prettier-config-jvdx
+$ npm i -D @jvdx/prettier
 
 # Using yarn
-$ yarn add -D @jvdx/prettier-config-jvdx
+$ yarn add -D @jvdx/prettier
 ```
 
 (2) Configure prettier in your `package.json`:
 
 ```json
 {
-  "prettier": "@jvdx/prettier-config-jvdx"
+  "prettier": "@jvdx/prettier"
 }
 ```
